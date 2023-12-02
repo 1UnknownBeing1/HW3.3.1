@@ -4,6 +4,6 @@
 * Работаю на двух работах
 * Занимался диджеингом 
 
-!(https://github.com/1UnknownBeing1/HW-3.3/blob/main/LgPLb8xlsMU.jpg)
+![мое фото](https://github.com/1UnknownBeing1/HW-3.3/blob/main/LgPLb8xlsMU.jpg)
 [image alt](https://github.com/1UnknownBeing1/HW-3.3/blob/main/LgPLb8xlsMU.jpg)
 
